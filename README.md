@@ -1,5 +1,5 @@
 <div align="center">
-  ##Hi👋,I'm Pravith P Kotian
+## Hi👋,I'm Pravith P Kotian
 </div>
 
 # 💫 About Me:
