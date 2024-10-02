@@ -4,7 +4,7 @@ Hi👋,I'm Pravith P Kotian
 
 <div align="center">Just a passionate programmer from india 🇮🇳 </div>
 
-##About Me:
+## About Me:
 *📫Reach me out official.pravith@gmail.com<br>*✨NMAMIT'28<br>*🌱I am currently learning frontend and backend development
 
 
