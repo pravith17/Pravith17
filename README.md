@@ -1,4 +1,4 @@
-##\t Hi👋,I'm Pravith P Kotian
+## \tHi👋,I'm Pravith P Kotian
 
 # 💫 About Me:
 *📫Reach me out official.pravith@gmail.com<br>*✨NMAMIT'28<br>*🌱I am currently learning frontend and backend development
